@@ -1,5 +1,7 @@
 # Interview Prepration Kit
-Coding Questions from interview preparation kits and interview experiences 
+Coding Questions from interview preparation kits and interview experiences <br />
+
+<img alt="" src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 
 ## Warm Up Questions  <br />
 
